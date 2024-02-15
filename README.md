@@ -1,5 +1,5 @@
-Hi, im MK250!
-stupid ass webdev 💯
+Hi, im MK250! <br>
+stupid ass webdev 💯 <br>
 Coding on CPP/CS, PHP.
 
 <!---
